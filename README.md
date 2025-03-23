@@ -1,7 +1,3 @@
-# hdb-rag-chatbot
-
-Low-Fidelity RAG Chatbot for HDB FAQs using DeepSeek-R1, LangChain, ChromaDB, and Ollama
-
 # 🏠 RAG Chatbot for HDB FAQs
 
 This is a simple local RAG (Retrieval-Augmented Generation) chatbot built using:
@@ -18,7 +14,7 @@ This is a simple local RAG (Retrieval-Augmented Generation) chatbot built using:
 2. Create and activate a Python virtual environment
 3. Install dependencies:
 
-- Run `pip install requirements.txt`
+- Run `pip install -r requirements.txt`
 
 4. Install and run Ollama:
 
