@@ -19,9 +19,9 @@ This is a simple local RAG (Retrieval-Augmented Generation) chatbot built using:
 4. Install and run Ollama:
 
 - Install from here: [https://ollama.com](https://ollama.com)
-- Run `ollama run deepseek-r1`
+- Run `ollama run deepseek-r1` to start the Ollama server manually
 
-5. Launch the notebook and run all cells.
+5. Launch the notebook and run all cells, using the virtual environment as the kernel.
 
 ## 🧪 Demo
 
