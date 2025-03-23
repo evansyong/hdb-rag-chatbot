@@ -1,0 +1,36 @@
+Question: When can I list my flat for sale on the HDB Flat Portal?
+Answer: You must first register an Intent to Sell to get a preliminary assessment of your eligibility to sell your flat, before you can list your flat for sale on the HDB Flat Portal.
+
+Question: How can I list my flat?
+Answer: After registering an Intent to Sell, you can list your flat for sale on the HDB Flat Portal by clicking on 'Create listing' at the Seller Overview page under 'My Profile'.
+Information such as your address, flat type, floor area, and remaining lease, are automatically filled in. You will need to provide the following to create a listing:
+- Photographs of your flat (up to 10).
+- Your intended listing price.
+- A description of your flat.
+- Whether you require Temporary Extension of Stay and/or Enhanced Contra Facility.
+You may also appoint your salesperson to create and manage the flat listing on your behalf.
+
+Question: Does HDB verify the authenticity of the resale flat listings and information provided?
+Answer: The flat listings are authentic as they are created by eligible flat sellers who have a valid Intent to Sell or by their appointed salespersons. 
+In each flat listing:
+- HDB provides official details (flat type, floor area, storey range, remaining lease, unit floor plan, ethnic quota eligibility, recent transacted prices).
+- Flat sellers or their appointed salespersons provide listing details (photographs, price, description, Temporary Extension of Stay requirements).
+- If inaccuracies are reported, HDB will investigate and take necessary actions, including removing the listing.
+
+Question: Can I appoint a salesperson to help manage my listing account?
+Answer: If you have a valid Intent to Sell and decide to engage a salesperson, you may appoint a CEA-registered Managing Salesperson to:
+- Create and edit your flat listing.
+- Update the listing price.
+- Upload photos of your flat.
+- Communicate with potential buyers or their salespersons.
+- Schedule flat viewing appointments.
+You can also appoint up to 5 Co-managing Salespersons to assist with listing descriptions and scheduling.
+
+Question: Will I be contacted by a salesperson appointed by a potential flat buyer?
+Answer: Yes, flat buyers with a valid HDB Flat Eligibility letter may appoint salespersons to manage their purchase, and you may be contacted by them on the HDB Flat Portal.
+
+Question: How long will my listing be allowed on the HDB Flat Portal?
+Answer: Your listing can remain on the HDB Flat Portal as long as you have a valid Intent to Sell, until you grant an Option to Purchase (OTP) to a buyer.
+- Once an OTP is granted, the listing should be deactivated.
+- HDB will automatically deactivate your listing upon receiving a Request for Value or resale application.
+- Listings are removed after the sale is completed or Intent to Sell expires.
