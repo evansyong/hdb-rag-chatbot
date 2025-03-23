@@ -18,13 +18,11 @@ This is a simple local RAG (Retrieval-Augmented Generation) chatbot built using:
 2. Create and activate a Python virtual environment
 3. Install dependencies:
 
-```bash
-$ pip install requirements.txt
-```
+- Run `pip install requirements.txt`
 
 4. Install and run Ollama:
 
-- [https://ollama.com](https://ollama.com)
+- Install from here: [https://ollama.com](https://ollama.com)
 - Run `ollama run deepseek-r1`
 
 5. Launch the notebook and run all cells.
